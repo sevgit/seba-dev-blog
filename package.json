@@ -1,5 +1,5 @@
 {
-  "name": "example_site",
+  "name": "sebadev",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "gatsby": "^2.13.67",
-    "gatsby_theme_unicorn": "^1.0.2",
+    "gatsby_theme_unicorn": "^1.0.5",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
